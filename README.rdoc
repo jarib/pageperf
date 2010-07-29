@@ -1,9 +1,9 @@
 = pageperf
 
-Description goes here.
+Ruby client for the Java server from http://github.com/lightbody/browsermob-page-perf
 
 == Note on Patches/Pull Requests
- 
+
 * Fork the project.
 * Make your feature addition or bug fix.
 * Add tests for it. This is important so I don't break it in a

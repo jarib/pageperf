@@ -4,6 +4,9 @@ require 'pageperf'
 require 'spec'
 require 'spec/autorun'
 
+
+# Selenium::WebDriver::FileReaper.reap = false
+
 Spec::Runner.configure do |config|
-  
 end
+
